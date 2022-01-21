@@ -8,9 +8,12 @@ import characters.Ponchik;
 import states.Atmosphere;
 import states.Health;
 
+//lab4
+
 public class Main {
 
     public static void main(String ... args) {
+        int[] qq = { 1, 2, 3, 4, 5, 6 };
 
         DevilWheel dv = new DevilWheel();
 
